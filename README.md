@@ -1,2 +1,2 @@
-# linuxforever.github.io
-El sitio web para linuxforever
+# rdiegon.github.io
+El sitio web para rdiegon.
